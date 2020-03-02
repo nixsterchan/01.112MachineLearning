@@ -1,4 +1,3 @@
 01.112 MachineLearning Learning Course Homeworks
 
-Student: Nigel Chan Terng Tseng
-ID: 1002027
+Still a beginner so... Follow at your own risk (:
